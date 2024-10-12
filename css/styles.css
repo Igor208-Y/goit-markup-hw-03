@@ -254,12 +254,12 @@ letter-spacing: 0.02em;
 .team-list {
     display: flex;
     gap: 24px;
-    width: calc(100% - );
 }
 
 .team-member {
     background-color: #FFFFFF;
     padding-bottom: 32px;
+    width: calc((100% - 72px) / 4);
     border-radius: 0px 0px 4px 4px;
 }
 
